@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Heading">Activity Login</string>
+    <string name="name">Your Name</string>
+    <string name="email">Your Email Address</string>
+    <string name="phone">Your Phone Number</string>
+    <string name="button">Button</string>
+    <string name="login">Login</string>
+</resources>
